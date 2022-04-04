@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmakamau
 - 👀 I’m interested in Python and it's frameworks.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Angular & Django.
 - 💞️ I’m looking to collaborate on web programs.
 - 📫 How to reach me ...emmaculatewkamau@gmail.com
 

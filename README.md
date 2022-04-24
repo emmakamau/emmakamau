@@ -1,12 +1,13 @@
 
 ### <div align="center">I'm Emma, a full-time full-stack developer 👨‍💻</div>  
 
-## Github Stats  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&theme=radical)
+## Github Stats 
+<p float="left">
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&theme=radical)" width="100" />
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmakamau&theme=radical)](https://github.com/anuraghazra/github-readme-stats) " width="100" />
+</p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 <br/>  
-  
 
 - 🔭 I’m currently working on [Python Practice Tests](https://www.practicepython.org/)  
   

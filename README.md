@@ -2,15 +2,9 @@
 ### <div align="center">I'm Emma, a full-time full-stack developer 👨‍💻</div>  
 
 ## Github Stats  
-<div align="row">
-  <div align="col">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&theme=radical)
-  </div>
-  <div align="col">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-</div>  
-
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 <br/>  
   
 

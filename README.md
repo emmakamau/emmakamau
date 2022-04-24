@@ -1,5 +1,17 @@
 
 ### <div align="center">I'm Emma, a full-time full-stack developer 👨‍💻</div>  
+
+## Github Stats  
+<div align="row">
+  <div align="col">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&theme=radical)]    (https://github.com/emmakamau/github-readme-stats)
+  </div>
+<div align="col">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmakamau&theme=radical)](https://github.com/emmakamau/github-readme-stats)
+  </div>
+</div>  
+
+<br/>  
   
 
 - 🔭 I’m currently working on [Python Practice Tests](https://www.practicepython.org/)  
@@ -75,25 +87,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&theme=radical)](https://github.com/emmakamau/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmakamau&theme=radical)](https://github.com/emmakamau/github-readme-stats)
-</div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 

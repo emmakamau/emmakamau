@@ -1,11 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&theme=radical)](https://github.com/emmakamau/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmakamau&theme=radical)](https://github.com/emmakamau/github-readme-stats)
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Emma, a full-time full-stack developer 👨‍💻</div>  
   
@@ -89,7 +81,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&theme=radical)](https://github.com/emmakamau/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmakamau&theme=radical)](https://github.com/emmakamau/github-readme-stats)
+</div>  
 
 <br/>  
 

@@ -2,10 +2,8 @@
 ### <div align="center">I'm Emma, a full-time full-stack developer 👨‍💻</div>  
 
 ## Github Stats 
-<p float="left">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&theme=radical)" width="100" />
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmakamau&theme=radical)](https://github.com/anuraghazra/github-readme-stats) " width="100" />
-</p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmakamau&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmakamau&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 <br/>  
 
@@ -85,7 +83,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ukkpzljg67vw7miad2z25sql5q&cover_image=true&theme=default" /></div>  
+<div align="center" height="50%" width="100%"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ukkpzljg67vw7miad2z25sql5q&cover_image=true&theme=default" /></div>  
 
 <br/>  
 

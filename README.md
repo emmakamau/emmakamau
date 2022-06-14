@@ -6,9 +6,9 @@
   
 <br/>  
 
-- 🔭 I’m currently working on [Python Practice Tests](https://www.practicepython.org/)  
+- 🔭 I’m currently working on a C# application.  
   
-- 🌱 I’m currently learning Flask and Python  
+- 🌱 I’m currently learning C#.  
   
 - ❓ Ask me about anything related to Python stack and related technologies  
   

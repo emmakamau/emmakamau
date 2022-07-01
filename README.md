@@ -6,13 +6,13 @@
   
 <br/>  
 
-- 🔭 I’m currently working on a C# application.  
+- 🔭 I’m currently working on a Staff Leave Management System in Blazor & ASP.Net.  
   
-- 🌱 I’m currently learning C#.  
+- 🌱 I’m currently learning C#, Blazor & ASP.Net.  
   
-- ❓ Ask me about anything related to Python stack and related technologies  
+- ❓ Ask me about anything related to Python, C# and related technologies  
   
-- ⚡ Fun fact: I am an Accountant  
+- ⚡ Fun fact: I never get tired of rewatching Big Bang Theory. 
  
 <br/>  
 

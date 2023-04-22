@@ -6,7 +6,7 @@
   
 <br/>  
 
-- 🔭 I’m currently working on a Employee Management System in ReactJs & ASP.Net.  
+- 🔭 I’m currently working on a File Management Project ASP.Net.  
   
 - 🌱 I’m currently learning C#, Blazor & ASP.Net.  
   
